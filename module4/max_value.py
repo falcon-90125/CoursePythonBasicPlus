@@ -6,3 +6,5 @@ for i in numbers:
     max_value = i
 
 print(max_value)
+
+print(numbers.index(max_value))
